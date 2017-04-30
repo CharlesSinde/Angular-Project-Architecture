@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-
+import { LoadConfigService } from '../services/load-config.service';
 
 @Component({
   selector: 'pra-authentication',
