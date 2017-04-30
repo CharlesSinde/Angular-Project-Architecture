@@ -1,5 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 
+
 @Component({
   selector: 'pra-authentication',
   templateUrl: './authentication.component.html',
@@ -13,3 +14,4 @@ export class AuthenticationComponent implements OnInit {
   }
 
 }
+
