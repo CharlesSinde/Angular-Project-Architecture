@@ -1,3 +1,6 @@
 export const environment = {
-  production: true
+  production: true,
+  username: 'user',
+  password: 'password',
+  BASE_URL: 'api.domain.com/'
 };
